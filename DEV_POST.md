@@ -48,7 +48,7 @@ Epitaph carved into ~/.ghost/graveyard.md
 👻 A SIMPLE QUERY, STILL, STILL A SIMPLE QUERY.
 ```
 
-<!-- Add a screenshot or GIF of the interactive mode here -->
+![A haunted terminal session with the Sysadmin of 1999](https://raw.githubusercontent.com/SrilalS/ghost-py/main/screenshot.png)
 
 Code: https://github.com/SrilalS/ghost-py
 

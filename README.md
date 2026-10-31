@@ -4,6 +4,8 @@ Run your shell through `ghost.py` and a ghost whispers commentary on every comma
 [Gemma 3 1B](https://ollama.com/library/gemma3), an open-weight model running locally through
 [Ollama](https://ollama.com). No cloud, no API keys, works offline. Python standard library only.
 
+![A haunted terminal session with the Sysadmin of 1999](screenshot.png)
+
 ## Features
 
 - 👻 **Three ghosts:** the Sysadmin of 1999, La Catrina (Dia de los Muertos), and the Spirit of COBOL.
