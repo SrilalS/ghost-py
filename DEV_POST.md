@@ -50,7 +50,7 @@ Epitaph carved into ~/.ghost/graveyard.md
 
 <!-- Add a screenshot or GIF of the interactive mode here -->
 
-Code: <!-- link to your GitHub repo -->
+Code: https://github.com/SrilalS/ghost-py
 
 ## How I Built It
 
